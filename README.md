@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Hotel Data Analysis Portfolio! In this repository, you will find data and analysis related to two hotels: 'City' and 'Resort'. The primary goal of this project is to provide valuable insights to stakeholders by answering their key questions:
+In this repository, you will find data and analysis related to two hotels: 'City' and 'Resort'. The primary goal of this project is to provide valuable insights to stakeholders by answering their key questions:
 
 1. **Is the revenue growing by year?**
 2. **Should the hotels increase parking lot size?**
